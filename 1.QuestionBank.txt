@@ -1,0 +1,103 @@
+1 Program To Print Hello World
+2 Program to Add Two Numbers
+3 Program to Find the Square Root
+4 Program to Calculate the Area of a Triangle
+5 Program to Swap Two Variables
+6 Program to Solve Quadratic Equation
+7 Program to Convert Kilometers to Miles
+8 Program to Convert Celsius to Fahrenheit
+9 Program to Generate a Random Number
+10 Program to Check if a number is Positive, Negative, or Zero
+11 Program to Check if a Number is Odd or Even
+12 Program to Find the Largest Among Three Numbers
+13 Program to Check Prime Number
+14 Program to Print All Prime Numbers in an Interval
+15 Program to Find the Factorial of a Number
+16 Program to Display the Multiplication Table
+17 Program to Print the Fibonacci Sequence
+18 Program to Check Armstrong Number
+19 Program to Find Armstrong Number in an Interval
+20 Program to Make a Simple Calculator
+21 Program to Find the Sum of Natural Numbers
+22 Program to Check if the Numbers Have Same Last Digit
+23 Program to Find HCF or GCD
+24 Program to Find LCM
+25 Program to Find the Factors of a Number
+26 Program to Find Sum of Natural Numbers Using Recursion
+27 Program to Guess a Random Number
+28 Program to Shuffle Deck of Cards
+29 Program to Display Fibonacci Sequence Using Recursion
+30 Program to Find Factorial of Number Using Recursion
+31 Program to Convert Decimal to Binary
+32 Program to Find ASCII Value of Character
+33 Program to Check Whether a String is Palindrome or Not
+34 Program to Sort Words in Alphabetical Order
+35 Program to Replace Characters of a String
+36 Program to Reverse a String
+37 Program to Create Objects in Different Ways
+38 Program to Check the Number of Occurrences of a Character in the String
+39 Program to Convert the First Letter of a String into UpperCase
+40 Program to Count the Number of Vowels in a String
+41 Program to Remove a Property from an Object
+42 Program to Check Whether a String Starts and Ends With Certain Characters
+43 Program to Check if a Key Exists in an Object
+44 Program to Clone a JS Object
+45 Program to Loop Through an Object
+46 Program to Merge Property of Two Objects
+47 Program to Count the Number of Keys/Properties in an Object
+48 Program to Add Key/Value Pair to an Object
+49 Program to Replace All Occurrences of a String
+50 Program to Create Multiline Strings
+51 Program to Format Numbers as Currency Strings
+52 Program to Generate Random String
+53 Program to Check if a String Starts With Another String
+54 Program to Trim a String
+55 Program to Convert Objects to Strings
+56 Program to Check Whether a String Contains a Substring
+57 Program to Compare Two Strings
+58 Program to Encode a String to Base64
+59 Program to Replace all Instances of a Character in a String
+60 Program to Replace All Line Breaks with
+61 Program to Display Date and Time
+62 Program to Check Leap Year
+63 Program to Format the Date
+64 Program to Display Current Date
+65 Program to Compare The Value of Two Dates
+66 Program to Create Countdown Timer
+67 Program to Remove Specific Item From an Array
+68 Program to Check if An Array Contains a Specified Value
+69 Program to Insert Item in an Array
+70 Program to Append an Object to An Array
+71 Program to Check if An Object is An Array
+72 Program to Empty an Array
+73 Program to Add Element to Start of an Array
+74 Program to Remove Duplicates From Array
+75 Program to Merge Two Arrays and Remove Duplicate Items
+76 Program to Sort Array of Objects by Property Values
+77 Program to Create Two Dimensional Array
+78 Program to Extract Given Property Values from Objects as Array
+79 Program to Compare Elements of Two Arrays
+80 Program to Get Random Item From an Array
+81 Program To Perform Intersection Between Two Arrays
+82 Program to Split Array into Smaller Chunks
+83 Program to Include a JS file in Another JS file
+84 Program to Get File Extension
+85 Program To Check If A Variable Is undefined or null
+86 Program to Set a Default Parameter Value For a Function
+87 Program to Illustrate Different Set Operations
+88 Program to Generate a Random Number Between Two Numbers
+89 Program To Get The Current URL
+90 Program to Validate An Email Address
+91 Program to Check If a Variable is of Function Type
+92 Program To Work With Constants
+93 Program to Pass Parameter to a setTimeout() Function
+94 Program to Generate a Range of Numbers and Characters
+95 Program to Perform Function Overloading
+96 Program to Implement a Stack
+97 Program to Implement a Queue
+98 Program to Check if a Number is Float or Integer
+99 Program to Pass a Function as Parameter
+100 Program to Get the Dimensions of an Image
+101 Program to Remove All Whitespaces From a Text
+102 Program to Write to Console
+103 Program to Convert Date to Number
