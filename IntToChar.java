@@ -1,4 +1,4 @@
-class  IntToChar{
+public class  IntToChar{
   public static void main(String[] args) {
     int num1 = 80;
     int num2 = 81;
